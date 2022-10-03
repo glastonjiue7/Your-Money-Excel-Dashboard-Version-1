@@ -14,6 +14,6 @@ Step 4 --> Enter your taken money details in sheet "Money taken"
 For enterd data in sheet "Money taken". File will Caluclate total taken money and dashboard will update in same sheet.
 Also we will get overall insights of all Money Present, Money Given and Money Taken in the form of dashboard in first sheet "Dashboard"
 ![image](https://user-images.githubusercontent.com/114488204/193507344-f01c94bd-2661-4cac-ab63-d4c99f5af384.png)
-You cab follow me by on social media. Check our=t about us sheet for more info.
+You can follow me by on social media. Check out about us sheet for more info.
 
-Note:- Due to safety reason of your information used simple excel file instead of any online tool like google sheet, power-bi etc.
+Note:- I used Excel file instead of google sheets, power-bi or any other tool because of safety reason. This Excel we will keep on our local machine instead of any online platform.
