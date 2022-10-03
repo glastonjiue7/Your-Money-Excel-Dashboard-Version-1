@@ -1,6 +1,6 @@
 # Your-Money-Excel-Dashboard-Version-1
 Basic simple excel file to know Dashboard view of your money and keep track of your overall present money. Also a feature to keep track of given or taken money in the form of simple dashboard.
-Step 1 --> Download the excel file 
+Step 1 --> Download the excel file form repository or https://docs.google.com/spreadsheets/d/1UwSgbUCOSBY0EFnoNtEXdT_fbWme6HoF/edit?usp=sharing&ouid=102004666539728980470&rtpof=true&sd=true 
 Step 2 --> Enter your money details in sheet "Money Present" (Current/Runnning or Long Team Money)
 ![image](https://user-images.githubusercontent.com/114488204/193506584-5179988b-8b0d-40c3-a0c6-724acfc1a732.png)
 For enterd data in sheet "Money Present". File will Caluclate total present money and dashboard will update in same sheet. 
